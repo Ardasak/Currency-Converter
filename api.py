@@ -1,7 +1,5 @@
 import requests
 
-from wx.core import ACC_STATE_SYSTEM_READONLY
-
 
 def get_data(first_currency,second_currency,amount):
   
